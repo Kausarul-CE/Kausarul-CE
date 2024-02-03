@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm KAUSARUL ISLAM</h1>
+<h1 align="center">I'm KAUSARUL ISLAM</h1>
 <h3 align="center">I'm Studying Computer Engineering at Suleyman Demirel University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kausarul-ce&label=Profile%20views&color=0e75b6&style=flat" alt="kausarul-ce" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **kanon.sdu@gmail.com**
 
-- ⚡ Fun fact **I think I'm Funny😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
