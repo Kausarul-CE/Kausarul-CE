@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kausarul-ce&label=Profile%20views&color=0e75b6&style=flat" alt="kausarul-ce" /> </p>
 
-- I’m currently learning **MERN Stack**
+- Currently I'm learning **MERN Stack**
 
 - 📫 How to reach me **kanon.sdu@gmail.com**
 
